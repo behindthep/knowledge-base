@@ -1,3 +1,5 @@
+чтобы агент проверял соответствия кода корректной архитектуре проектирования
+
 ## 1
 
 <img width="1501" height="778" alt="image" src="https://github.com/user-attachments/assets/582d07aa-d664-4df9-94b7-b1bc9678123e" />
@@ -33,4 +35,8 @@ Skills (навыки) у AI-агентов — это переносимые, с
 ---
 
 ## 2
+
+<img width="977" height="336" alt="image" src="https://github.com/user-attachments/assets/9112fccb-5840-45ca-84bd-87cb1912305b" />
+
+перед тем как просить делать - "напиши план изменений" и он по нему смотреть
 
