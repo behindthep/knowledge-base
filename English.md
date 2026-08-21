@@ -4,8 +4,6 @@
 |2-е л.|ты|вы|
 |3-е л.|он, она, оно|они|
 
-подлежащее subject
-глагол verb
 прилагательное adjective
 наречие adverb
 местоимение pronoun
@@ -15,56 +13,39 @@
 
 ## Утверждение
 
-Subject + verb+ …
-
-You like coffee.
-
-К verb окончание -s | -es, если subject в 3-м л. ед. ч.
-
+К verb окончание -s|-es, если subject в 3-м л. ед. ч.
 He works here.
 
 ## Вопрос
 
 Do + subject + verb+ …
-
 Do you eat meat?
-
 Does he drink milk?
-
 does с subject в 3-м л. ед. ч.
 
 ## Отрицание
 
 Subject + don't + verb+ …
-
 I don't watch TV.
-
 He doesn't read books.
 
 ## Have
 
 Если у вас что-то есть - “я имею”
-
 Subject + have + …
-
 I have a car.
-
 He has a sister.
-
 has с subject в 3-м л. ед. ч.
 
 ### Вопрос с have
 
-Do | Does + subject+ have + …
-
+Do|Does + subject+ have + …
 Do you have a car?
-
 ↓ does + have - грамматическое внимание на себя. Verb в инфинитиве (нач. форме). ↑
 
 ### Отрицание с have
 
 Subject + do | does + not + have + …
-
 I don't have time.
 
 ## Be
@@ -72,14 +53,10 @@ I don't have time.
 Формы be (являться, находиться)
 
 - I - am
-    
 - he, she, it - is
-    
 - you, we, they - are
     
-
 I'm a man. Я (являюсь) мужчиной.
-
 My brother is often late. Здесь is - глагол-связяка для описания состояния.
 
 ## Be vs. Do
@@ -87,53 +64,36 @@ My brother is often late. Здесь is - глагол-связяка для о�
 ### Be (am, is, are / was, were)
 
 Описываем состояние, качество или местоположение (глагола нет)
-
 Кто / что это? I’m a doctor.
-
 Какой? The weather is cold
-
 Где? They're at home.
 
 После be:
-
 существительное
-
 прилагательное
-
 место
-
 Действие в процессе. I'm eating. Я [есть] кушающий - процесс прямо сейчас.
 
 ### Do, does / did
 
 Когда есть действие (глагол), задать вопрос или построить отрицание в Present/Past Simple
-
 Вопрос
-
 Отрицание
-
 Do you speak English?
-
 He doesn't work here
 
 ### Отрицание с be
 
 Subject + am | is | are + not + …
-
 I'm not busy.
-
 My parents aren't at home.
 
 ### Вопрос с be
 
 Am | Is | Are + subject + …
-
 Am I happy?
-
 Вопрос с be в настощем
-
 Question word + am | is | are + subject + …
-
 Where am I?
 
 ### Ответ на вопрос с be
